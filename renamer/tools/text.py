@@ -22,9 +22,9 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/RestinHeaven)
+** Channel:** [BOT UPDATES](https://t.me/RestinHeaven)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/RestinHeaven)
+** Group:** [SUPPORT](https://t.me/RestinHeaven)
 
 ** Source Code:** [Press Me](https://t.me/HeavenBotSupport)
 """
@@ -35,6 +35,7 @@ class TEXT:
 ☞︎︎︎ Send a photo to set as permanent thumbnail.
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
+
 for Any issue @HeavenBotSupport
 """
 
